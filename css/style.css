@@ -159,9 +159,6 @@ body {
         flex-direction: column;
         text-align: center;
     }
-    .place-container {
-        text-align: left;
-    }
 }
 
 @media(max-width:768px) {
